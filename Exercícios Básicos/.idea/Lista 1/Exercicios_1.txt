@@ -1,0 +1,53 @@
+package br.com.lucascaran;
+
+public class Exercicios_1 {
+
+    public static void main (String args[]){
+
+       /* 1. Verifique se um número é positivo, negativo ou zero.
+            Ex: 15 é Posisito
+                -2 é Negativo
+                 0 é Positivo
+       */
+
+       /* 2. Determine se um ano é bissexto.
+             Um ano é bissexto se ele for divisível por 400 OU se ele for divisível por 4 e não por 100.
+             Ex: 1900 NÃO foi bissexto
+                 1600 foi bissexto
+             Dica: Use o operador '%'(MOD) que recebe o resto de uma divisão.
+       */
+
+       /* 3. Exiba o maior dentre os três números.
+             Ex: 22, 5 e 35. O Maior é '35'
+                 -5, -22 e -1. O Maior é '-1'
+                  0, -10 e -100. O Maior é '0'
+        */
+
+       /* 4. Verifique se um número é par ou ímpar.
+             Ex: 0 é PAR
+                 1 É IMPAR
+                 2 É PAR
+             Dica: Use o operador '%'(MOD) que recebe o resto de uma divisão.
+                   E lembre, não existe divisão por 0(zero)
+        */
+
+       /* 5. Calcula o valor do desconto.
+             ex: Preço 100 e desconto de 13%. TOTAL é 87
+        */
+
+       /* 6. Verifique se um estudante foi aprovado com base na média de 3 notas.
+             Ex: MÉDIA 7 - nota 8, nota 7 e nota 1 = Não aprovado
+                 MÉDIA 5 - nota 7, nota 5 e nota 3 = Aprovado
+        */
+
+       /* 7. Determine se um número está dentro de um intervalo específico.
+             Ex: Ínicio 10 e Fim 13 => Número 8  - Não está no intervalo
+                 Ínicio 83 e Fim -1 => Número 15 - Está no intervalo
+        */
+
+       /* 8. Calcule a comissão de um vendedor com base nas vendas.
+             Ex: Vendas 1500 e comissão de 8% - Deve receber 120
+        */
+
+    }
+}

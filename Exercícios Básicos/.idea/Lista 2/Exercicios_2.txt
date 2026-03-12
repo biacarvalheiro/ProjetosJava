@@ -1,0 +1,38 @@
+package br.com.lucascaran;
+
+public class Exercicios_2 {
+
+    public static void main (String args[]){
+
+/*        1. Determine se uma letra é vogal ou consoante.
+             Ex: 'a' é VOGAL
+                 'B' é CONSOANTE
+*/
+
+/*        2. Verifique se um número digitado é igual ao número secreto.
+             Ex: Numero secreto(FIXO) 012546, número digitado 000000 = Não é igual ao código
+                 Numero secreto(FIXO) 012546, número digitado 012546 = É igual ao código
+*/
+
+/*        3. Receba uma horário e imprima bom dia, boa tarde ou boa noite.
+             EX: 22:05 => Boa noite
+                 12:00 => Bom dia
+*/
+
+/*        4. Recorte os valores das frases e execute as operações conforme descrição. (Use os dois exemplos abaixo mudando apenas os valores)
+             Ex: Voce acaba de receber '120,00' mas ainda deve pagar '80,00' => Total de 40,00
+                 Sua conta foi de '400,00' e vai dividir por '4' Pessoas => Total de 100,00 por pessoa
+*/
+
+/*        5. Receba uma palavra e troque a última letra pela primeira e vice versa.
+             Ex: BOLA => AOLB
+                 PARADIGMA => AARADIGMP
+*/
+
+/*        6. Verifique se uma palavra atende ao seguinte requisito: ter 1 `A` Maiusculo, 3 www, 1 arroba(@), 2 asteriscos(*) e o trecho "Iélou".
+             Ex: wwwA@**Iélou => Atende ao requisito
+                 wwwa@**Ielou => Não atende ao requisito
+*/
+
+    }
+}

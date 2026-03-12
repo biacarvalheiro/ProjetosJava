@@ -1,0 +1,51 @@
+package br.com.lucascaran;
+
+public class Exercicios_3 {
+
+    public static void main (String args[]){
+
+/*        1. Receba números até que o usuário queira parar, e então some todos e imprima.
+             Defina um caractere para que o usuário indique quer parar.
+             Ex: Quer Inserir número (S/N)
+                Se S = Então insira o numero
+                Se N = Pare e imprima a soma de todos os números inseridos.
+*/
+
+
+/*        2. Receba números até que o usuário queira parar, então imprima todos os ímpares.
+             Defina um caractere para que o usuário indique quer parar.
+             Ex: Quer Inserir número (S/N)
+               Se S = Então insira o numero
+               Se N = Pare e imprima todos os ímpares inseridos.
+*/
+
+
+/*        3. Receba 5 números, ao final imprima o maior deles.
+             Ex: 1,2,3,4,5 => Maior é o 5
+             Ex: 0,-5,-6,-8,-2 = > Maior é 0
+             Ex: 5,5,5,5,5 => Maior é o 5
+*/
+
+/*        4. Verifique um texto e veja quantas vogais e consoantes ele possui, imprima as quantidades.
+             Ex: Azul é a cor do mar = > 7 Vogais e 7 Consoantes
+*/
+
+/*        5. Crie uma calculadora, onde o usuário escolhe a operação e insere os 2 números para cálculo.
+             Ex: Qual operação deseja? (/,-,*,+)
+                 1 (Operacao escolhida) 2 = Total
+*/
+
+/*        6. Receba caracteres até que um seja ‘X’, imprima quantos caracteres foram vogais, consoantes, números positivos e negativo, e se daria para escrever “java11”.
+             Ex: skuuanDlsn*f,ALks => Não da pra escrever "Java11"
+                 vkjuanDlsna*1ALk1 => Consegui escrever "Java11"
+*/
+
+/*        7. Verifique se uma palavra é um anagrama.
+             Anagrama é uma palavra ou frase formada pela reorganização das letras de outra palavra ou frase, sem adicionar ou omitir nenhuma letra.
+             Ex: roma e amor são anagramas.
+                 ator e rota são anagramas.
+                 alice e celina Não são anagramas.
+ */
+
+    }
+}
