@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Ex1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Entrada de dados
         System.out.print("Digite um número: ");
         int numero = scanner.nextInt();
 
